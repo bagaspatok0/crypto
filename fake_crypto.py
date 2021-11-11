@@ -1,6 +1,5 @@
 import random, time, os, getpass
 from art import tprint
-from pymsgbox import _passwordTkinter
 code = getpass.getpass("Buat password: ")
 os.system("clear")
 koin_btc = 5
